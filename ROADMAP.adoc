@@ -1,0 +1,13 @@
+// SPDX-License-Identifier: PMPL-1.0-or-later
+= Games Roadmap
+
+== Components
+
+=== idaptiky
+Adaptive game engine. Status: Active development.
+
+=== pow-the-game
+Impact and consequence game. Status: Early development.
+
+=== airborne-submarine-squadron
+Absurdist flight-sub hybrid. Status: Concept phase.

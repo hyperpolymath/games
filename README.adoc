@@ -1,0 +1,19 @@
+// SPDX-License-Identifier: PMPL-1.0-or-later
+= Games
+:toc: preamble
+
+Hyperpolymath's game projects and interactive experiences.
+
+== Components
+
+* `idaptiky/` - Adaptive game engine with dynamic difficulty and content generation
+* `pow-the-game/` - A game about impact and consequence
+* `airborne-submarine-squadron/` - Absurdist flight-sub hybrid game
+
+== License
+
+PMPL-1.0-or-later
+
+== Author
+
+Jonathan D.A. Jewell <jonathan.jewell@open.ac.uk>
