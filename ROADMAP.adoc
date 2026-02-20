@@ -3,9 +3,6 @@
 
 == Components
 
-=== idaptiky
-Adaptive game engine. Status: Active development.
-
 === pow-the-game
 Impact and consequence game. Status: Early development.
 
